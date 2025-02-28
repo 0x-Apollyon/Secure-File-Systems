@@ -1,5 +1,5 @@
-# Secure-File-Systems
- A secure file system
+# Secure-Files
+ A way to store files securely
  
 All files are encrypted using AES-256
 AES-256 key derivation is done from the user password
